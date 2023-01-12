@@ -1,0 +1,7 @@
+enter_loan: "enter the principle loan amount:"
+invalid_principle: "not a valid input \n=>please enter a principle value greater than zero"
+enter_apr: "enter APR as a percentage"
+invalid_apr: "not a valid input \n=>please enter an apr value from 0 to 100"
+enter_duration: "enter loan duration in months"
+invalid_duration: "not a valid input \n=>please enter a duration in months"
+another_calculation: "would you like to perform another calculation? (y / n)"
